@@ -1,8 +1,4 @@
 - 👋 Hello, I’m Sophie
-- I’m interested in Computer Programming, Artificial Intelligence, and robotics
-- Java focused
-- have completed three college computer science courses:
-    - intro
-    - Data Structures and Algorithms
-    - object Oriented Programming
-- 📫 How to reach me: sophiajhasara@gmail.com
+- Currently working on getting all my stuff together to push some of my real work
+- 2024 Rollins College Graduate with a BA in Computer Science and a passion for helping people 
+- How to reach me: sophiajhasara@gmail.com
